@@ -1,0 +1,84 @@
+@media (min-width:992px) and (max-width:1199px){.testimonial_inner .carousel-caption{bottom:33%!important}.abt_ban{background-size:cover!important;min-height:auto}.inner_ban_left{padding-top:144px}}
+
+@media (min-width:768px) and (max-width:991px){.abt_ban{background-size:cover!important;min-height:auto;float:left}.menu_sec 
+.navbar-toggler{
+    /* float:right;position:absolute;right:0;top:7px;background-color:#fdc900!important */
+}
+.menu_sec{width:70%!important}.service1{min-height:324px;margin-bottom:15px}.testimonial_inner .carousel-item img{min-height:442px}.hm_contact{margin:0}.testimonial_inner .carousel-caption h3{font-size:32px;line-height:40px}.testimonial_inner .carousel-caption{bottom:8%!important}.w-100{height:369px}.welcom_sec{padding:40px 0}.welcm_inn h3{font-size:35px;line-height:40px}.client_sec{padding:30px 0}.inner_ban_left{padding-top:144px}}
+
+@media (max-width:767px){.abt_ban,.clin_ban{min-height:135px;background-size:cover!important}.abt_ban,.clin_ban,.con_ban{background-size:cover!important}.top_inn_lt,.top_inn_rt{text-align:center}.inner_ban_left{padding:50px 0 0 25px;width:44%}.abt_ban1 .container{padding:0}.inner_ban_left h2{font-size:20px;line-height:30px}.inner_ban_rt{width:56%;float:right;padding:25px 5px 0 0}.menu_sec .navbar-toggler{background-color:#fdc900!important}.abt_ban1 .inner_ban_rt img,.client_ban1 .inner_ban_rt img,.con_ban,.service_new{min-height:auto}.client_ban1 .container{padding:0}.menu_sec{width:70%!important}
+.navbar-toggler{
+    /* position:absolute;right:10px;top:10px */
+}.top_inn_lt{width:100%;float:left;padding:0 0 0 15px}}
+
+@media (max-width:480px){.logo_sec,.top_inn_rt{text-align:center}.w-100{height:260px}.wel_rt{padding-left:0}.service1{margin-bottom:15px}.testimonial_inner .carousel-caption{bottom:-1%!important}.d-none{display:block!important}.testimonial_inner .carousel-item img{min-height:460px}.hm_contact{margin-top:15px}.testimonial_inner .carousel-caption h3{font-size:32px;line-height:40px}.links p{font-size:14px;line-height:20px}.foot1 h6{font-size:15px;line-height:20px}.links{margin-top:10px}.foot1{margin-top:15px}.menu_sec{width:30%;float:left}.menu_inn .nav-link{padding:0!important}.logo_sec{width:70%;float:right}.hm_contact1 label{font-size:14px;line-height:16px}.hm_contact1 input[type=text],.hm_contact1 input[type=email],.hm_contact1 input[type=tel]{margin-top:7px}.connet_sec{margin-top:23px}.about_inn_rt{margin-top:20px}.about_inn_rt .card-body{padding:10px 0}.next1,.prev1{display:none}.clnt2{min-height:172px}.abt_ban1 .inner_ban_rt img,.portfolio_new,.portfolio_new .inner_ban_rt img{min-height:auto}.inner_ban_left{padding-left:5px}.menu_sec .mr-auto{margin:0!important}.menu_sec .navbar{width:260px;top:-5px;padding:0!important}
+.navbar-toggler{
+    /* position:absolute;left:0;top:-46px */
+}
+.clnt1{height:152px;width:100%}.logo_sec img{width:115px}.top_inn_rt ul{float:none}}
+
+
+@media only screen and (min-width: 992px){
+
+    .service_pagesec .container{
+        max-width: 1170px !important;
+    }
+}
+
+
+
+
+
+
+@media only screen and (max-width: 767px){
+
+    .navbar-upper {
+        font-size: 12px
+    }
+
+    header .header__wrap .navbar.navbar-upper #navbarNav .social li a.social-link {
+        padding: 4px 10px 4px;
+    }
+
+    header .header__wrap .navbar.navbar-upper #navbarNav .social li a.social-link img {
+        width: 13px;
+    }
+    .home__banner .carousel-item {
+        height: 214PX;
+    }
+
+    .home__banner .carousel-control-prev-icon {
+        background-color: #fdca00 !important;
+        padding: 10px;
+    }
+    .home__banner .carousel-control-next-icon {
+        background-color: #fdca00 !important;
+        padding: 10px;
+    }
+
+    .testimonial_inner .carousel-caption {
+        bottom: 21%!important;
+    }
+
+    /* ------- */
+    .inner_ban_rt {
+        width: 56%;
+        float: right;
+        padding: 25px 5px 0 0;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .top_inn_lt_mobile{
+        width: 100%;
+        float: left;
+        padding: 0 0 0 15px;
+        text-align: center;
+    }
+}
+
+
+
